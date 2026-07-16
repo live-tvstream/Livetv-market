@@ -1,0 +1,37 @@
+                #========Bd ayna server=======
+#EXTINF:-1 group-title="India Bangla ♛" tvg-logo="https://i.imgur.com/nerVeTp.jpeg",[BD] Zee Bangla HD-1
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=1173096.m3u8
+#EXTINF:-1 group-title="India Bangla ♛" tvg-logo="https://i.imgur.com/nerVeTp.jpeg",[BD] Zee Bangla HD-3
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908680.m3u8
+#EXTINF:-1 group-title="India Bangla ♛" tvg-logo="https://i.imgur.com/ACm8YLr.jpeg",[BD] Zee Bangla SD-1
+https://stream.ottplus.live/live/zee_bangla_abr/index.m3u8
+#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/I3VM78a.jpeg" group-title="Movie",sun bangla-1
+http://27.124.71.27/Sun_Bangla/index.m3u8
+#EXTINF:-1 group-title="India Bangla ♛" tvg-logo="https://i.imgur.com/6PXiBCB.jpeg",[BD] starjalsha hd-1
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281675.m3u8
+#EXTINF:-1 group-title="India Bangla ♛" tvg-logo="https://i.imgur.com/6PXiBCB.jpeg",[BD] starjalsha hd-2
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908682.m3u8
+#EXTINF:-1 group-title="India Bangla ♛" tvg-logo="https://i.imgur.com/6PXiBCB.jpeg",[BD] starjalsha hd-3
+https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MTg.m3u8
+#EXTINF:-1 group-title="India Bangla ♛" tvg-logo="https://i.imgur.com/6PXiBCB.jpeg",[BD] starjalsha hd-4
+https://live.shamim-iptv.workers.dev/STARJOLSHAHD.m3u8
+#EXTINF:-1 group-title="India Bangla ♛" tvg-logo="https://i.imgur.com/NXf1rqb.jpeg",[BD] sonyaath-1
+https://stream.ottplus.live/live/sony_aath_abr/index.m3u8
+#EXTINF:-1 group-title="India Bangla ♛" tvg-logo="https://i.imgur.com/NXf1rqb.jpeg",[BD] sonyaath-2
+https://live.shamim-iptv.workers.dev/SONYATTH.m3u8
+#EXTINF:-1 group-title="India Bangla ♛" tvg-logo="https://i.imgur.com/Ya47Y5k.jpeg",[BD] colors bangla hd 1
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908654.m3u8
+#EXTINF:-1 group-title="India Bangla ♛" tvg-logo="https://i.imgur.com/Ya47Y5k.jpeg",[BD] colors bangla-1
+https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281676.m3u8
+#EXTINF:-1 group-title="India Bangla ♛" tvg-logo="https://i.imgur.com/Ya47Y5k.jpeg",[BD] colors bangla-2
+http://103.180.212.191:3500/live/1369.m3u8
+#EXTINF:-1 group-title="India Bangla ♛" tvg-logo="https://i.imgur.com/CiZZK3n.png",[BD] colors bangla cinema-1
+https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09NDc.m3u8
+#EXTINF:-1 group-title="India Bangla ♛" tvg-logo="https://i.imgur.com/CiZZK3n.png",[BD] colors bangla cinema-2
+https://live.shamim-iptv.workers.dev/coloursbanglachinema.m3u8
+#EXTINF:-1 group-title="India Bangla ♛" tvg-logo="https://i.imgur.com/CiZZK3n.png",[BD] colors bangla cinema-3
+http://103.180.212.191:3500/live/1657.m3u8
+#EXTINF:-1 group-title="India Bangla ♛" tvg-logo="https://i.imgur.com/CiZZK3n.png",[BD] Akash8
+https://live.shamim-iptv.workers.dev/akash8.m3u8
+#EXTINF:-1 group-title="India Bangla ♛" tvg-logo="https://i.imgur.com/CiZZK3n.png",[BD] Enter10-Bangla
+https://live.shamim-iptv.workers.dev/ENTER10BANGLA.m3u8
