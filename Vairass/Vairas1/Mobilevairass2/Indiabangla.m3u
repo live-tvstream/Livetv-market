@@ -5,6 +5,8 @@ https://live-tvstream.github.io/Livetv-market/Zeebanglahd-1.m3u8
 https://live-tvstream.github.io/Livetv-market/Zeebanglahd-2.m3u8
 #EXTINF:-1 group-title="India Bangla ♛" tvg-logo="https://i.imgur.com/ACm8YLr.jpeg",[BD] Zee Bangla SD-1
 https://stream.ottplus.live/live/zee_bangla_abr/index.m3u8
+#EXTINF:-1 group-title="India Bangla ♛" tvg-logo="https://i.imgur.com/ACm8YLr.jpeg",[BD] Zee Bangla SD-2
+https://stream.ottplus.live/live/zee_bangla_abr/index.m3u8
 #EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/I3VM78a.jpeg" group-title="Movie",sun bangla-1
 https://live-tvstream.github.io/Livetv-market/Sunbangla-1.m3u8
 #EXTINF:-1 group-title="India Bangla ♛" tvg-logo="https://i.imgur.com/6PXiBCB.jpeg",[BD] starjalsha hd-1
